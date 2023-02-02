@@ -10,7 +10,7 @@
 ~ ctrl + D      // 看看答案是不是對的
 ```
 
-<img src='./lidemy_OJ-pic.png' width='520'>
+<img src='./lidemy_OJ-pic.png' width='100%'>
 `
 | # | Title | Solution |
 |---| ----- | -------- |
