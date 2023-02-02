@@ -1,0 +1,16 @@
+# Lidemy OJ
+
+執行 `cat input.txt | node code.js`
+
+或是這樣
+
+```
+~ node code.js. // 直接執行
+~ 1 2           // 輸入值
+~ ctrl + D      // 看看答案是不是對的
+```
+
+`
+| # | Title | Solution |
+|---| ----- | -------- |
+|1001|[題目Ａ＋Ｂ](https://oj.lidemy.com/problem/1001)|[JavaScript](https://github.com/roroiii/Lidemy-OJ/blob/main/javascript/1001.js)
