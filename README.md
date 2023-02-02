@@ -11,6 +11,7 @@
 ```
 
 <img src='./lidemy_OJ.png' width='100%'>
+
 `
 | # | Title | Solution |
 |---| ----- | -------- |
