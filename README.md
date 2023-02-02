@@ -1,4 +1,4 @@
-# Lidemy OJ
+# LidemyOJ(LIOJ)
 
 執行 `cat input.txt | node code.js`
 
