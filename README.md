@@ -19,3 +19,4 @@
 |1002|[數字比大小](https://oj.lidemy.com/problem/1002)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1002.js)
 |1003|[聯誼門票搶起來](https://oj.lidemy.com/problem/1003)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1003.js)
 |1005|[聯誼話題相親數](https://oj.lidemy.com/problem/1005)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1005.js)
+|1007|[聯誼排行大比拼](https://oj.lidemy.com/problem/1007)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1007.js)
