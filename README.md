@@ -23,7 +23,7 @@
 |1007|[聯誼排行大比拼](https://oj.lidemy.com/problem/1007)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1007.js)
 |1008|[幾個水桶](https://oj.lidemy.com/problem/1008)|
 |1009|[Yo！倒著唸！](https://oj.lidemy.com/problem/1009)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1009.js)
-|1010|[靈魂伴侶](https://oj.lidemy.com/problem/1010)|
+|1010|[靈魂伴侶](https://oj.lidemy.com/problem/1010)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1010.js)
 |1011|[183 Club](https://oj.lidemy.com/problem/1011)|
 |1012|[買一送一](https://oj.lidemy.com/problem/1012)|
 |1013|[搭電梯](https://oj.lidemy.com/problem/1013)|
