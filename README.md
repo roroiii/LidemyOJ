@@ -29,7 +29,7 @@
 |1013|[搭電梯](https://oj.lidemy.com/problem/1013)|
 |1014|[不九人世](https://oj.lidemy.com/problem/1014)|
 |1015|[音速小子](https://oj.lidemy.com/problem/1015)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1015.js)
-|1016|[不合群的人](https://oj.lidemy.com/problem/1016)|
+|1016|[不合群的人](https://oj.lidemy.com/problem/1016)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1016.js)
 |1017|[貪婪的小偷](https://oj.lidemy.com/problem/1017)|
 |1018|[大平台](https://oj.lidemy.com/problem/1018)|
 |1019|[一條路走到黑](https://oj.lidemy.com/problem/1019)|
