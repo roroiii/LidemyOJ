@@ -36,3 +36,7 @@
 |1020|[判斷質數](https://oj.lidemy.com/problem/1020)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1020.js)
 |1021|[好多星星](https://oj.lidemy.com/problem/1021)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1021.js)
 |1022|[印出金字塔](https://oj.lidemy.com/problem/1022)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1022.js)
+|1023|[印出聖誕樹](https://oj.lidemy.com/problem/1023)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1023.js)
+|1024|[NM 乘法表](https://oj.lidemy.com/problem/1024)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1024.js)
+|1025|[NM 乘法表](https://oj.lidemy.com/problem/1025)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1025.js)
+|1026|[判斷等比數列](https://oj.lidemy.com/problem/1026)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1026.js)
