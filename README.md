@@ -40,3 +40,7 @@
 |1024|[NM 乘法表](https://oj.lidemy.com/problem/1024)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1024.js)
 |1025|[NM 乘法表](https://oj.lidemy.com/problem/1025)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1025.js)
 |1026|[判斷等比數列](https://oj.lidemy.com/problem/1026)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1026.js)
+|1028|[生命靈數](https://oj.lidemy.com/problem/1028)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1028.js)
+|1029|[加減乘除](https://oj.lidemy.com/problem/1029)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1029.js)
+|1030|[判斷迴文](https://oj.lidemy.com/problem/1030)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1030.js)
+|1031|[完全平方和](https://oj.lidemy.com/problem/1031)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1031.js)
