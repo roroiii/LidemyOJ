@@ -58,3 +58,4 @@
 |1045|[String slice](https://oj.lidemy.com/problem/1045)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1045.js)
 |1046|[圈圈叉叉](https://oj.lidemy.com/problem/1046)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1046.js)
 |1047|[搜尋數字](https://oj.lidemy.com/problem/1047)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1047.js)
+|1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
