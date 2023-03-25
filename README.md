@@ -20,6 +20,7 @@
 |1003|[聯誼門票搶起來](https://oj.lidemy.com/problem/1003)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1003.js)
 |1004|[聯誼順序比大小](https://oj.lidemy.com/problem/1004)|
 |1005|[聯誼話題相親數](https://oj.lidemy.com/problem/1005)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1005.js)
+|1006|[聯誼坐法排排看](https://oj.lidemy.com/problem/1006)|
 |1007|[聯誼排行大比拼](https://oj.lidemy.com/problem/1007)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1007.js)
 |1008|[幾個水桶](https://oj.lidemy.com/problem/1008)|
 |1009|[Yo！倒著唸！](https://oj.lidemy.com/problem/1009)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1009.js)
@@ -46,6 +47,9 @@
 |1030|[判斷迴文](https://oj.lidemy.com/problem/1030)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1030.js)
 |1031|[完全平方和](https://oj.lidemy.com/problem/1031)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1031.js)
 |1032|[平面距離計算](https://oj.lidemy.com/problem/1032)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1032.js)
+|1033|[最近點對](https://oj.lidemy.com/problem/1033)|
+|1034|[凱薩加密](https://oj.lidemy.com/problem/1034)|
+|1035|[簡易排序](https://oj.lidemy.com/problem/1035)|
 |1036|[Array reverse](https://oj.lidemy.com/problem/1036)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1036.js)
 |1037|[Array filter](https://oj.lidemy.com/problem/1037)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1037.js)
 |1038|[Array indexOf](https://oj.lidemy.com/problem/1038)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1038.js)
@@ -58,4 +62,9 @@
 |1045|[String slice](https://oj.lidemy.com/problem/1045)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1045.js)
 |1046|[圈圈叉叉](https://oj.lidemy.com/problem/1046)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1046.js)
 |1047|[搜尋數字](https://oj.lidemy.com/problem/1047)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1047.js)
+|1048|[最大連續和](https://oj.lidemy.com/problem/1048)|
+|1049|[陣列最短距離](https://oj.lidemy.com/problem/1049)|
 |1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
+|1051|[逆序數對](https://oj.lidemy.com/problem/1051)|
+|1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|
+|1053|[走迷宮](https://oj.lidemy.com/problem/1053)|
