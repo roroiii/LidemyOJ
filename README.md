@@ -53,3 +53,7 @@
 |1040|[Array join](https://oj.lidemy.com/problem/1040)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1040.js)
 |1041|[String trim](https://oj.lidemy.com/problem/1041)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1041.js)
 |1042|[String toLowerCase](https://oj.lidemy.com/problem/1042)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1042.js)
+|1043|[String endsWith](https://oj.lidemy.com/problem/1043)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1043.js)
+|1044|[String padEnd](https://oj.lidemy.com/problem/1044)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1044.js)
+|1045|[String slice](https://oj.lidemy.com/problem/1045)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1045.js)
+|1046|[圈圈叉叉](https://oj.lidemy.com/problem/1046)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1046.js)
