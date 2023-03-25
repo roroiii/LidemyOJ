@@ -65,6 +65,6 @@
 |1048|[最大連續和](https://oj.lidemy.com/problem/1048)|
 |1049|[陣列最短距離](https://oj.lidemy.com/problem/1049)|
 |1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
-|1051|[逆序數對](https://oj.lidemy.com/problem/1051)|
+|1051|[逆序數對](https://oj.lidemy.com/problem/1051)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1051.js)
 |1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|
 |1053|[走迷宮](https://oj.lidemy.com/problem/1053)|
