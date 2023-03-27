@@ -13,8 +13,8 @@
 <img src='./lidemy_OJ.png' width='100%'>
 
 `
-| # | Problem | Solution |
-|---| ------- | -------- |
+| # | Problem | Solution | Description |
+|---| ------- | -------- | --- |
 |1001|[題目Ａ＋Ｂ](https://oj.lidemy.com/problem/1001)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1001.js)
 |1002|[數字比大小](https://oj.lidemy.com/problem/1002)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1002.js)
 |1003|[聯誼門票搶起來](https://oj.lidemy.com/problem/1003)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1003.js)
@@ -65,6 +65,6 @@
 |1048|[最大連續和](https://oj.lidemy.com/problem/1048)|
 |1049|[陣列最短距離](https://oj.lidemy.com/problem/1049)|
 |1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
-|1051|[逆序數對](https://oj.lidemy.com/problem/1051)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1051.js)
-|1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|
+|1051|[逆序數對](https://oj.lidemy.com/problem/1051)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1051.js)|Merge sort 合併排序|
+|1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1052.js) |Depth First Search 深度優先搜尋|
 |1053|[走迷宮](https://oj.lidemy.com/problem/1053)|
