@@ -27,7 +27,7 @@
 |1010|[靈魂伴侶](https://oj.lidemy.com/problem/1010)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1010.js)
 |1011|[183 Club](https://oj.lidemy.com/problem/1011)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1011.js)
 |1012|[買一送一](https://oj.lidemy.com/problem/1012)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1012.js)
-|1013|[搭電梯](https://oj.lidemy.com/problem/1013)|
+|1013|[搭電梯](https://oj.lidemy.com/problem/1013)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1013.js)|費波那契數列|
 |1014|[不九人世](https://oj.lidemy.com/problem/1014)|
 |1015|[音速小子](https://oj.lidemy.com/problem/1015)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1015.js)
 |1016|[不合群的人](https://oj.lidemy.com/problem/1016)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1016.js)
