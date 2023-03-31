@@ -47,7 +47,7 @@
 |1030|[判斷迴文](https://oj.lidemy.com/problem/1030)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1030.js)
 |1031|[完全平方和](https://oj.lidemy.com/problem/1031)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1031.js)
 |1032|[平面距離計算](https://oj.lidemy.com/problem/1032)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1032.js)
-|1033|[最近點對](https://oj.lidemy.com/problem/1033)|
+|1033|[最近點對](https://oj.lidemy.com/problem/1033)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1033.js)|Σ（ﾟ д ﾟ lll）|
 |1034|[凱薩加密](https://oj.lidemy.com/problem/1034)|
 |1035|[簡易排序](https://oj.lidemy.com/problem/1035)|
 |1036|[Array reverse](https://oj.lidemy.com/problem/1036)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1036.js)
