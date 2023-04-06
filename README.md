@@ -62,7 +62,7 @@
 |1045|[String slice](https://oj.lidemy.com/problem/1045)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1045.js)
 |1046|[圈圈叉叉](https://oj.lidemy.com/problem/1046)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1046.js)
 |1047|[搜尋數字](https://oj.lidemy.com/problem/1047)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1047.js)|二分搜尋法|
-|1048|[最大連續和](https://oj.lidemy.com/problem/1048)|
+|1048|[最大連續和](https://oj.lidemy.com/problem/1048)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1048.js)|經典演算法題目，可看 leetcode 53 題|
 |1049|[陣列最短距離](https://oj.lidemy.com/problem/1049)|
 |1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
 |1051|[逆序數對](https://oj.lidemy.com/problem/1051)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1051.js)|Merge sort 合併排序|
