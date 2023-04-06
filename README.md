@@ -1,6 +1,9 @@
 # LidemyOJ(LIOJ)
 
-執行 `cat input.txt | node code.js`
+#### 解題說明
+
+輸入寫在 **input.txt**，程式碼寫在 **code.js**
+本地執行 `cat input.txt | node code.js`
 
 或是這樣
 
