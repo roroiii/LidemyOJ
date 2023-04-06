@@ -33,7 +33,7 @@ rl.on("close", function () {
   8（即向下）
  */
 
-function solve1(lines) {
+function solve(lines) {
   let [w, h] = lines[0].split(" "); // 取得地圖的寬度 w 和高度 h
   let [x, y] = [0, 1]; // 設定起點座標為 (0, 1)，x 為橫向座標，y 為縱向座標
   let state = 5; // 設定初始方向為下方 (代號為 5)
