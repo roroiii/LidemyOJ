@@ -49,7 +49,7 @@
 |1032|[平面距離計算](https://oj.lidemy.com/problem/1032)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1032.js)
 |1033|[最近點對](https://oj.lidemy.com/problem/1033)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1033.js)|Σ（ﾟ д ﾟ lll）|
 |1034|[凱薩加密](https://oj.lidemy.com/problem/1034)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1034.js)|( ；´Д ｀)|
-|1035|[簡易排序](https://oj.lidemy.com/problem/1035)|
+|1035|[簡易排序](https://oj.lidemy.com/problem/1035)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1035.js)|
 |1036|[Array reverse](https://oj.lidemy.com/problem/1036)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1036.js)
 |1037|[Array filter](https://oj.lidemy.com/problem/1037)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1037.js)
 |1038|[Array indexOf](https://oj.lidemy.com/problem/1038)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1038.js)
