@@ -33,7 +33,7 @@
 |1016|[不合群的人](https://oj.lidemy.com/problem/1016)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1016.js)
 |1017|[貪婪的小偷](https://oj.lidemy.com/problem/1017)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1017.js)
 |1018|[大平台](https://oj.lidemy.com/problem/1018)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1018.js)
-|1019|[一條路走到黑](https://oj.lidemy.com/problem/1019)|
+|1019|[一條路走到黑](https://oj.lidemy.com/problem/1019)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1019.js)|偷吃步の寫法 ( ˶ˊᵕˋ˶)|
 |1020|[判斷質數](https://oj.lidemy.com/problem/1020)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1020.js)
 |1021|[好多星星](https://oj.lidemy.com/problem/1021)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1021.js)
 |1022|[印出金字塔](https://oj.lidemy.com/problem/1022)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1022.js)
