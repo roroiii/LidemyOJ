@@ -69,5 +69,5 @@
 |1049|[陣列最短距離](https://oj.lidemy.com/problem/1049)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1049.js)
 |1050|[Two sum](https://oj.lidemy.com/problem/1050)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1050.js)
 |1051|[逆序數對](https://oj.lidemy.com/problem/1051)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1051.js)|Merge sort 合併排序|
-|1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1052.js) |Depth First Search 深度優先搜尋|
-|1053|[走迷宮](https://oj.lidemy.com/problem/1053)|
+|1052|[貪婪的小偷 Part2](https://oj.lidemy.com/problem/1052)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1052.js) |Depth First Search (DFS) 深度優先搜尋|
+|1053|[走迷宮](https://oj.lidemy.com/problem/1053)|[JavaScript](https://github.com/roroiii/LidemyOJ/blob/main/javascript/1053.js) |Breadth First Search (BFS) 廣度優先搜尋|
